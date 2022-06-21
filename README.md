@@ -46,13 +46,7 @@ The following image shows the application's `IndexedDB` storage:
 
 - [Heroku Deployed: Text Editor (Just Another Text Editor)](https://jate-kj.herokuapp.com/)
 
-## Github Repository:
 
-- [Github Repository for Text Editor](https://github.com/ksjefferies/text-editor)
-
-## Author:
-
-- [Kelly Jefferies](https://github.com/ksjefferies)
 
 ## Technologies Used:
 
